@@ -1,4 +1,5 @@
 # 👋 Привет, я Александр
+![Profile views](https://komarev.com/ghpvc/?username=Sna1peRtv&color=blue)
 
 **Data Analyst** | 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
@@ -8,7 +9,7 @@
 
 Анализирую данные, строю ML-модели и делаю дашборды. 
 Пишу про футбольную аналитику в Дзене.
-![Profile views](https://komarev.com/ghpvc/?username=Sna1peRtv&color=blue)
+
 ## 📌 Мои проекты
 
 ### 1. Churn Analysis (ML)
