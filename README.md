@@ -8,7 +8,7 @@
 
 Анализирую данные, строю ML-модели и делаю дашборды. 
 Пишу про футбольную аналитику в Дзене.
-
+![Profile views](https://komarev.com/ghpvc/?username=Sna1peRtv&color=blue)
 ## 📌 Мои проекты
 
 ### 1. Churn Analysis (ML)
@@ -32,3 +32,4 @@ Python · pandas · scikit-learn · SQL · Power BI · Jupyter / Colab
 
 ## 📫 Связаться со мной
 [Telegram](https://t.me/Sna1peR52rus) · [Дзен](https://dzen.ru/timefootball) · [Mail](mailto:footballtimettv@gmail.com)
+
