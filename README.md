@@ -1,6 +1,10 @@
 # 👋 Привет, я Александр
 
-**Data Analyst** | Python · SQL · Power BI · scikit-learn
+**Data Analyst** | 
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?logo=scikitlearn)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 Анализирую данные, строю ML-модели и делаю дашборды. 
 Пишу про футбольную аналитику в Дзене.
